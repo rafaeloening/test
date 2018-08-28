@@ -6,4 +6,4 @@ phases:
       - touch oening.txt
 artifacts:
   files:
-    - **/*
+    - '**/*'
